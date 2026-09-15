@@ -37,3 +37,11 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 .editorial-spread{display:flex;justify-content:center;align-items:flex-start;gap:0}
 .editorial-spread .editorial-page{display:block;flex:0 0 50%;width:50%;margin:0;padding:0;border:0}
 .editorial-page img{display:block;width:100%;height:auto;margin:0}
+
+/* Match the design heading to the art and editorial headings. */
+.section-heading.design-heading{align-items:center;padding-block:var(--space)}
+.design-heading .eyebrow{margin:0 0 1rem}
+.section-heading.design-heading h2{font-family:var(--font-heading);font-size:var(--section-size);font-weight:400;line-height:1.65;margin:0}
+
+.design-heading .eyebrow{font-size:calc(var(--small-size) * .8)}
+.section-heading.design-heading h2{font-size:calc(var(--section-size) * .8)}
