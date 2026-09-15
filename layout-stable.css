@@ -16,3 +16,12 @@ html{overflow-y:scroll;scrollbar-gutter:stable;text-size-adjust:100%;-webkit-tex
 }
 .word-cloud>*{white-space:nowrap}
 .project a:hover img{transform:none}
+
+.contact-with-portrait{align-items:center;margin-top:2rem}.contact-portrait-wrap{display:flex;justify-content:center;align-items:center;padding:2rem}.contact-portrait{display:block;width:70%;max-width:19rem;height:auto;object-fit:contain}
+body.is-home .closing{position:relative;isolation:isolate;min-height:12rem;padding-block:3rem;align-items:center}
+body.is-home .closing::before{content:"";position:absolute;z-index:-1;inset-block:0;left:calc((100% - 100vw)/2);width:100vw;pointer-events:none;background:url('./images/closing-landscape.webp') center/cover no-repeat;mask-image:linear-gradient(to right,transparent,rgba(0,0,0,.5) 25%,rgba(0,0,0,.5) 75%,transparent);-webkit-mask-image:linear-gradient(to right,transparent,rgba(0,0,0,.5) 25%,rgba(0,0,0,.5) 75%,transparent)}
+@media(max-width:40rem){.contact-portrait-wrap{padding:1rem}.contact-portrait{max-width:14rem}.contact-with-portrait{gap:2rem}}
+
+/* Full landscape between the section rules, without cropping. */
+body.is-home .closing{margin-block:0;height:18.41620626151013vw;min-height:0;padding-block:0;flex-wrap:nowrap}
+body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.08) 18%,rgba(0,0,0,.5) 42%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.08) 82%,transparent 100%);-webkit-mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.08) 18%,rgba(0,0,0,.5) 42%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.08) 82%,transparent 100%)}
