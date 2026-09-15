@@ -24,6 +24,12 @@ window.portfolio = {
               "label": "喷绘",
               "width": 2400,
               "height": 1680
+            },
+            {
+              "src": "./images/reading/celestial-process.webp",
+              "label": "天女形象绘制",
+              "width": 2400,
+              "height": 1660
             }
           ],
           "size": "4m × 2.8m"
@@ -177,7 +183,71 @@ window.portfolio = {
         "王艺林",
         "李雨欣 等"
       ],
-      "homeTitle": "传统艺术赏读会 | 活动视觉策划与系统设计"
+      "homeTitle": "传统艺术赏读会 | 活动视觉策划与系统设计",
+      "venueAssets": [
+        {
+          "src": "./images/reading/venue-theme.webp",
+          "label": "活动主题背投",
+          "width": 2400,
+          "height": 1350
+        },
+        {
+          "src": "./images/reading/venue-subtitles.webp",
+          "label": "演出字幕背景",
+          "width": 2400,
+          "height": 1350
+        },
+        {
+          "src": "./images/reading/venue-pvc.webp",
+          "label": "内场装饰PVC板",
+          "width": 1224,
+          "height": 1285
+        }
+      ],
+      "realizationAssets": [
+        {
+          "src": "./images/reading/installed-backdrop.webp",
+          "label": "喷绘实物",
+          "width": 2400,
+          "height": 1350
+        },
+        {
+          "src": "./images/reading/installed-details.webp",
+          "label": "喷绘实物细节",
+          "width": 1319,
+          "height": 1484
+        },
+        {
+          "src": "./images/reading/installed-rollup.webp",
+          "label": "易拉宝实物",
+          "width": 2304,
+          "height": 3072
+        },
+        {
+          "src": "./images/reading/installed-tickets.webp",
+          "label": "门票实物",
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "src": "./images/reading/installed-cards.webp",
+          "label": "手卡实物",
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "src": "./images/reading/installed-stage.webp",
+          "label": "舞台实景",
+          "width": 2400,
+          "height": 1350
+        },
+        {
+          "src": "./images/reading/installed-hall.webp",
+          "label": "场馆实景",
+          "width": 1440,
+          "height": 960
+        }
+      ]
     },
     {
       "slug": "begonia",

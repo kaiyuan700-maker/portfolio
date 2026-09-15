@@ -74,7 +74,7 @@ img{max-width:100%}
 .balanced-projects .caption .meta{margin:.75rem 0 0 2rem}
 .fine-art-home{margin-top:clamp(3rem,7vw,6rem);padding-block:var(--space);border-block:1px solid var(--line)}
 .fine-art-home>a{display:flex;align-items:center;justify-content:space-between;gap:2rem}.fine-art-home .eyebrow{margin-bottom:1rem}.fine-art-home h2{font-family:SimSun,serif;font-size:var(--heading-size);font-weight:400;margin:0}.fine-art-home>a:hover h2{color:var(--accent)}
-.closing{margin-block:clamp(2.5rem,6vw,5rem);border:0;padding-top:0}.closing p{font-size:clamp(1.35rem,2.4vw,2.3rem)}
+.closing{margin-block:clamp(2.5rem,6vw,5rem);border:0;padding-top:0}.closing p{font-size:clamp(.675rem,1.2vw,1.15rem)}
 @media(max-width:40rem){.balanced-projects{grid-template-columns:1fr}.balanced-projects .project-1>a{display:block}.balanced-projects .project .visual:has(img){height:auto}.balanced-projects .project .visual img{height:auto}.fine-art-home>a{align-items:flex-start;flex-direction:column}.word-cloud{column-gap:0}.cloud-word{letter-spacing:0}}
 
 /* Shared reading scale; image proportions remain intact. */
