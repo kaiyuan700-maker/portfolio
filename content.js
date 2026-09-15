@@ -685,5 +685,137 @@ window.portfolio = {
       "宣传设计",
       ""
     ]
-  ]
+  ],
+  "editorial": {
+    "id": "zhuren-2025",
+    "title": "浙江大学建筑工程学院《筑人》2025年刊",
+    "articles": [
+      {
+        "id": "opera",
+        "title": "猛抬头见碧落月色清明：戏曲漫谈（撰写+排版）",
+        "spreads": [
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p56.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 56
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p57.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 57
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p58.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 58
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p59.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 59
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p60.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 60
+            }
+          ]
+        ]
+      },
+      {
+        "id": "garden",
+        "title": "“不到园林，怎知春色如许”——《红楼梦》大观园浅探",
+        "spreads": [
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p75.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 75
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p76.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 76
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p77.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 77
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p78.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 78
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p79.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 79
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p80.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 80
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p81.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 81
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p82.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 82
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p83.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 83
+            }
+          ],
+          [
+            {
+              "src": "./images/editorial/zhuren-2025-p84.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 84
+            },
+            {
+              "src": "./images/editorial/zhuren-2025-p85.webp",
+              "width": 2480,
+              "height": 3366,
+              "page": 85
+            }
+          ]
+        ]
+      }
+    ]
+  }
 };

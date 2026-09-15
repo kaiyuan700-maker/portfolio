@@ -25,3 +25,15 @@ body.is-home .closing::before{content:"";position:absolute;z-index:-1;inset-bloc
 /* Full landscape between the section rules, without cropping. */
 body.is-home .closing{margin-block:0;height:18.41620626151013vw;min-height:0;padding-block:0;flex-wrap:nowrap}
 body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.08) 18%,rgba(0,0,0,.5) 42%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.08) 82%,transparent 100%);-webkit-mask-image:linear-gradient(to right,transparent 0%,rgba(0,0,0,.08) 18%,rgba(0,0,0,.5) 42%,rgba(0,0,0,.5) 58%,rgba(0,0,0,.08) 82%,transparent 100%)}
+
+/* Separate education, professional experience, and campus work. */
+.about-experience>div:nth-child(2),.about-experience>div:nth-child(5){margin-top:2.75rem;padding-top:2rem;border-top:1px solid var(--line)}
+
+
+/* Editorial directories and equal-size magazine pages. */
+.editorial-home{margin-top:0;border-top:0}
+.editorial-directory a>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
+.editorial-spreads{width:min(125%,90rem);max-width:none;position:relative;left:50%;transform:translateX(-50%);margin:var(--space) 0;display:grid;gap:2.5rem}
+.editorial-spread{display:flex;justify-content:center;align-items:flex-start;gap:0}
+.editorial-spread .editorial-page{display:block;flex:0 0 50%;width:50%;margin:0;padding:0;border:0}
+.editorial-page img{display:block;width:100%;height:auto;margin:0}
