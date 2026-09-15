@@ -1,0 +1,18 @@
+/* Reference layout: deterministic dimensions for each page family. */
+html{overflow-y:scroll;scrollbar-gutter:stable;text-size-adjust:100%;-webkit-text-size-adjust:100%}
+@media(min-width:1000px){
+ :root{font-size:clamp(12px,.75vw,20px);--heading-size:3.15rem;--body-size:1.125rem;--small-size:1rem;--section-size:2rem;--work-title-size:1.65rem;--space:4rem;--intro-separation:12.5rem}
+ html:has(body.is-profile){font-size:clamp(12px,.9375vw,24px)}
+ header,main,footer{width:75%;max-width:100rem;margin-inline:auto}
+ body.is-profile header,body.is-profile main,body.is-profile footer{width:92%;max-width:none}
+ header{height:7.375rem;min-height:7.375rem;padding-block:0;flex-wrap:nowrap}
+ body.is-home header{height:12rem;min-height:12rem;flex-wrap:nowrap}
+ .brand{font-size:1.7rem}body.is-home .brand{font-size:3.4rem}
+ .brand span{font-size:1rem}.brand{gap:1.25rem}.brand span{padding-left:1.25rem}
+ .cloud-intro{height:33.75rem;padding:4rem 0;display:flex;align-items:center;justify-content:center}
+ .word-cloud{height:25.75rem;grid-template-rows:repeat(5,minmax(0,1fr));grid-template-columns:repeat(6,minmax(0,1fr))}
+ .fine-art-directory{max-width:65rem}.about-portrait{max-width:26rem}
+ .pen-showcase .artwork img{height:20rem}
+}
+.word-cloud>*{white-space:nowrap}
+.project a:hover img{transform:none}

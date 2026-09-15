@@ -126,3 +126,34 @@ h3,.balanced-projects .project h3,.digital-caption h2{font-family:var(--font-hea
 .cloud-intro{margin-bottom:var(--intro-separation)}
 .cloud-intro::after{content:"";position:absolute;left:0;right:0;bottom:0;border-bottom:1px solid var(--ink);pointer-events:none}
 .cloud-intro+section>.section-heading{border-top-color:transparent}
+
+/* About profile */
+.simple-page.about-page h1{font-size:var(--heading-size)}
+.about-grid{align-items:start}.about-portrait{display:block;width:100%;height:auto;max-width:26rem;justify-self:center}.about-block{margin-block:2.5rem}.about-copy .about-block h2{font-size:var(--work-title-size);margin-bottom:1.2rem}.about-skills{margin:0}.about-skills>div{margin-bottom:1.25rem}.about-skills dt{font-family:var(--font-heading);font-size:var(--body-size);margin-bottom:.4rem}.about-skills dd{margin:0;font-size:var(--body-size);line-height:1.9}.about-experience>div{margin-bottom:1.6rem}.about-experience p{margin:.25rem 0;font-size:var(--body-size);line-height:1.9}.about-experience .experience-date,.about-experience .experience-note{font-size:var(--small-size)}
+
+/* About body text scale */
+.about-page .about-copy>p,.about-page .about-skills dd,.about-page .about-direction,.about-page .about-experience p:not(.experience-date):not(.experience-note){font-size:calc(var(--body-size) * 2 / 3);line-height:1.95}
+.about-page .about-experience .experience-note{font-size:calc(var(--small-size) * 2 / 3)}
+
+.about-page .about-experience .experience-date{font-size:calc(var(--small-size) * .85)}
+.pen-showcase{position:relative;margin-bottom:4rem}.pen-window{overflow:hidden;width:100%;padding-block:1rem}.pen-track,.pen-set{display:flex;align-items:center;width:max-content}.pen-track{will-change:transform}.pen-slide{width:clamp(20rem,43vw,48rem);padding:1rem 2.5rem;box-sizing:border-box}.pen-showcase .artwork{margin:0;width:100%;max-width:none}.pen-showcase .artwork img{width:100%;height:clamp(20rem,52vh,40rem);object-fit:contain}.pen-showcase figcaption{gap:.5rem;flex-wrap:wrap;overflow-wrap:anywhere}.pen-control{position:absolute;z-index:2;top:45%;width:2.75rem;height:2.75rem;border:1px solid currentColor;border-radius:50%;background:#f5efdfdd;color:var(--ink);font-size:1.5rem;cursor:pointer}.pen-left{left:0}.pen-right{right:0}.pen-control:hover{background:#eee2c9}.pen-control:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.word-cloud>*{animation:word-drift 6s ease-in-out infinite alternate}.word-cloud>:nth-child(3n){animation-duration:8s;animation-delay:-5s}.word-cloud>:nth-child(3n+1){animation-duration:6.666667s;animation-delay:-3s}.word-cloud>:nth-child(even){animation-direction:alternate-reverse}
+@keyframes word-drift{from{transform:translate(-3px,3px)}to{transform:translate(4px,-5px)}}
+@media(prefers-reduced-motion:reduce){.word-cloud>*{animation:none}}
+
+/* Two-row pen exhibition and navigation */
+.pen-set{display:grid;grid-template-rows:repeat(2,auto);grid-auto-flow:column;align-items:center;row-gap:1.5rem}.pen-slide{width:clamp(18rem,35vw,38rem);padding:.75rem 2rem}.pen-showcase .artwork img{height:clamp(12rem,29vh,23rem)}.pen-control{top:50%;transform:translateY(-50%);width:3rem;height:5rem;border:1px solid rgba(113,86,65,.28);border-radius:50% / 30%;color:#795d4d;background:linear-gradient(135deg,rgba(255,252,242,.96),rgba(234,221,199,.92));box-shadow:0 4px 18px #5a40351c,inset 0 0 0 4px #fff8;transition:background .25s,box-shadow .25s,color .25s}.pen-control span{display:block;font-family:Georgia,serif;font-size:1.65rem;font-weight:400}.pen-control:hover{color:#9b4c42;background:#faf3e4;box-shadow:0 6px 22px #5a40352b,inset 0 0 0 4px #fff8}.pen-control:active{transform:translateY(-50%) scale(.96)}.pen-left{left:.25rem}.pen-right{right:.25rem}
+
+/* Homepage identity and scroll cue */
+body.is-home .brand{font-size:clamp(2.3rem,1.9rem + 1.2vw,3.4rem)}
+body.is-home header{height:auto;min-height:12rem;flex-wrap:wrap}
+.home-down-triangle{position:absolute;left:50%;top:calc(100% + clamp(1.5rem,2.5vw,3rem));transform:translateX(-50%);width:clamp(6rem,20vw,22rem);height:clamp(.8rem,1.8vw,2rem);background:#b93632;clip-path:polygon(0 0,100% 0,50% 100%);opacity:.1;animation:triangle-breathe 2.5s ease-in-out infinite alternate;pointer-events:none}
+@keyframes triangle-breathe{from{opacity:.1}to{opacity:.25}}
+@media(max-width:40rem){body.is-home .brand{font-size:clamp(2.2rem,9vw,2.8rem)}}
+@media(prefers-reduced-motion:reduce){.home-down-triangle{animation:none;opacity:.18}}
+
+
+.peony-quote p,.peony-quote cite{font-size:clamp(.88rem,.76rem + .36vw,1.2rem)}
+.peony-quote cite{display:block;text-align:right}
+
+
