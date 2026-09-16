@@ -1,0 +1,15 @@
+.opera-player{--record-size:123px;--record-text:11.25px;position:fixed;right:0;top:calc(77% - var(--record-size)/2);width:calc(var(--record-size)/2);height:var(--record-size);z-index:1000;overflow:hidden;touch-action:none;user-select:none}
+.opera-record{position:relative;display:block;width:var(--record-size);height:var(--record-size);padding:0;border:0;border-radius:50%;background:none;color:#eee1c8;cursor:grab;touch-action:none;-webkit-tap-highlight-color:transparent}
+.opera-record:active{cursor:grabbing}.opera-record:focus-visible{outline:2px solid #a96151;outline-offset:-4px}
+.opera-vinyl{position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle at center,#dfc9a0 0 3%,#8a463c 3.5% 19%,transparent 19.5%),repeating-radial-gradient(circle,#282722 0 2px,#3b3831 3px,#24231f 4px);box-shadow:inset 0 0 0 2px #70644f;animation:opera-spin 28s linear infinite;animation-play-state:paused}
+.opera-vinyl::after{content:'';position:absolute;inset:0;border-radius:50%;background:conic-gradient(from 30deg,transparent,#f2e3bf25,transparent 30%,transparent 53%,#f2e3bf20,transparent 85%)}
+.opera-label{position:absolute;inset:0 50% 0 0;display:flex;align-items:center;justify-content:center;gap:3.75px;padding-left:9px;pointer-events:none;text-shadow:0 1px 3px #000;font-family:SimSun,serif}
+.opera-label span{writing-mode:vertical-rl;text-orientation:upright;font-size:var(--record-text);line-height:1.5;letter-spacing:1.5px}
+.opera-label .opera-initial{font-size:13.5px;letter-spacing:3px}.opera-label .opera-details{display:none}
+.opera-player.has-started .opera-initial{display:none}.opera-player.has-started .opera-details{display:block}
+.opera-player.is-playing .opera-vinyl{animation-play-state:running}.opera-player.is-playing .opera-label{animation:opera-breathe 4s ease-in-out infinite}
+@keyframes opera-spin{to{transform:rotate(360deg)}}@keyframes opera-breathe{0%,100%{opacity:1}50%{opacity:.45}}
+@media(max-width:600px){.opera-player{--record-size:108px;--record-text:9.75px}.opera-label{gap:1.5px;padding-left:7.5px}.opera-label .opera-initial{font-size:12px}}
+@media(prefers-reduced-motion:reduce){.opera-player.is-playing .opera-vinyl,.opera-player.is-playing .opera-label{animation:none}}
+
+.opera-label .opera-performer{font-size:calc(var(--record-text) * .75)}
