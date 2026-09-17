@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w063"]="<h2 style=\"text-align:center\"><strong>采桑子</strong></h2>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-indent:2em\">绿桥阴里窥船迹，水动鸳移。圆影横枝，翡翠光中墨色垂。</p>\n<p style=\"text-indent:2em\">重叠桥影重叠树，晴日参差。着墨浓时，点点舟摇缀画迟。</p>";
