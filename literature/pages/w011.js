@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w011"]="<h2><strong>秀里其七</strong></h2>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-indent:2em\">【步步娇带过皂罗袍】碧层林淡染的清溪靛，柳丝拨云片。波揉影乱秋成线。轻舟画栏、澄塘嘉院，翠萝薜墙头上偏。闹蜂蝶招惹得花梢儿颤。对鹅儿菱荇琉璃面，半掩着琐窗朱户纱橱儿茜。上小楼、任流眄，便缘溪绿涛如绢，红云成霰。怎问溪源何见？渔郎呵，你索再休引得外人闲牵念。</p>";

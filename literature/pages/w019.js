@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w019"]="<h2><strong>李圪塔村其五</strong></h2>\n<p style=\"text-indent:2em\">【越调】【紫花儿序过调笑令】行一路掩掩映映，晶晶莹莹，碧碧青青。探溪寻路，忽听猛惊，几树鸦鸣。罕外人缠煞小蜂蝇，远东游也紧紧的围定；贪一晌满山阴晴，看忘返天高日晶。这一晚空明、灯满庭，喧乐响遮没了老鸦声。对分庭羽球儿飞应，这壁厢晃五色羽毽横行。畅好是不寒不暑夜盈盈，笑从双脸儿生。</p>";

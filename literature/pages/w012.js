@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w012"]="<h2><strong>其八</strong></h2>\n<p style=\"text-align:center\"><strong>霜天晓角</strong> 别徽州</p>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-indent:2em\">云青山靛，晨起复征辙。粉黛隐隐稠林，飞去远、暗明灭。</p>\n<p style=\"text-indent:2em\">人别，情忍别？幽期共难绝。何当重泛浮槎，复得路，尽红雪。</p>";

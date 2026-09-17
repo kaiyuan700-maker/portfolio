@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w037"]="<h2 style=\"text-align:center\"><strong>蝶恋花</strong></h2>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-align:center\">其一</p>\n<p style=\"text-indent:2em\">落拓自为哂纷尘，云烟乱眼，今复几堪存。无为无益狼藉梦，多病多愁侘傺身。</p>\n<p style=\"text-indent:2em\">痴顽犹憾向时因，绿窗红影，也曾似个真。沉霭迷津方恨渡，雨花满地始怀春。</p>";

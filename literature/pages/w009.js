@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w009"]="<h2><strong>宏村其五</strong></h2>\n<p style=\"text-align:center\">湖光山色抱古村，村南村北多游人。</p>\n<p style=\"text-align:center\">华堂巍祠荫风水，碧潭古树象星辰。</p>\n<p style=\"text-align:center\">墨砚衣雕缤满目，酒糖茶饼馥盈唇。</p>\n<p style=\"text-align:center\">鹅在陂塘马在野，黄犬花猫过往频。</p>";

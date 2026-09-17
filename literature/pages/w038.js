@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w038"]="<h2 style=\"text-align:center\"><strong>蝶恋花</strong></h2>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-align:center\">其二</p>\n<p style=\"text-indent:2em\">晚来惊雨早飘摇，结子不值，芳情一霎焦。看来是否真颜色，余烈能堪更比娇。</p>\n<p style=\"text-indent:2em\">掩抑新雷争寂寥，秉心难释，春盛几还邀。青帝可期重驻目，素娥犹许为登高。</p>";

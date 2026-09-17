@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w006"]="<h2><strong>屏山其二</strong></h2>\n<p style=\"text-align:center;text-indent:2em\">晶晖湿鳞瓦，流光苔岸滑。</p>\n<p style=\"text-align:center;text-indent:2em\">花深舞乱蝶，波浅浴群鸭。</p>\n<p style=\"text-align:center;text-indent:2em\">流连惊构筑，盘桓愧图画。</p>\n<p style=\"text-align:center;text-indent:2em\">俗事遣随水，渔郎莫还家。</p>";

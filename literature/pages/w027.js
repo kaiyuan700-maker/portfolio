@@ -1,0 +1,1 @@
+window.literatureBodies=window.literatureBodies||{};window.literatureBodies["w027"]="<h2 style=\"text-align:center\"><strong>定风波 </strong>马武寨山雪晴</h2>\n<p class=\"lit-blank\" aria-hidden=\"true\">&nbsp;</p>\n<p style=\"text-indent:2em\">云销烟净不觉清，微寒气象半天明。两道晴阳一山雪，晶盈。万枝垂颤小冰铃。</p>\n<p style=\"text-indent:2em\">落拓坡头冰上行，少惊，栏疏径窄路攲倾。霜亭一捧天地白，轻轻，浅浅冰残雪化声。</p>";
