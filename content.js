@@ -259,7 +259,7 @@ window.portfolio = {
       "description": "",
       "role": "",
       "images": [],
-      "homeTitle": "海棠诗梦文学沙龙 | 主视觉与衍生文创",
+      "homeTitle": "“海棠诗梦”《红楼梦》文学沙龙 | 主视觉与衍生文创",
       "fullTitle": "浙江大学图书馆主馆 “海棠诗梦”《红楼梦》文学桌游活动",
       "pages": [
         {
