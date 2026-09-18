@@ -130,7 +130,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -162,7 +162,7 @@ window.literatureWorks = [
       "古体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -194,7 +194,7 @@ window.literatureWorks = [
       "古体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -226,7 +226,7 @@ window.literatureWorks = [
       "诗骚"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -258,7 +258,7 @@ window.literatureWorks = [
       "近体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -290,7 +290,7 @@ window.literatureWorks = [
       "现代诗"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -322,7 +322,7 @@ window.literatureWorks = [
       "曲"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -354,7 +354,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -386,7 +386,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "城市"
@@ -418,7 +418,7 @@ window.literatureWorks = [
       "古体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "山水"
@@ -448,7 +448,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -480,7 +480,7 @@ window.literatureWorks = [
       "古体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -512,7 +512,7 @@ window.literatureWorks = [
       "古体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -544,7 +544,7 @@ window.literatureWorks = [
       "诗骚"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -576,7 +576,7 @@ window.literatureWorks = [
       "曲"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -608,7 +608,7 @@ window.literatureWorks = [
       "近体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -640,7 +640,7 @@ window.literatureWorks = [
       "近体"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -672,7 +672,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -704,10 +704,10 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
-      "历史"
+      "城市"
     ],
     "series": [
       "长歌三晋"
@@ -762,7 +762,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "建筑"
@@ -958,7 +958,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "建筑"
@@ -988,7 +988,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "建筑"
@@ -1266,7 +1266,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "山水"
@@ -1298,7 +1298,7 @@ window.literatureWorks = [
       "文言"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "山水"
@@ -1330,7 +1330,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "建筑"
@@ -1362,7 +1362,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "城市"
@@ -1394,7 +1394,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "城市"
@@ -1426,7 +1426,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "城市"
@@ -1568,7 +1568,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "乡村"
@@ -1658,7 +1658,7 @@ window.literatureWorks = [
       "散文"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "山水"
@@ -1828,7 +1828,7 @@ window.literatureWorks = [
       "小说"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "城市"
@@ -1860,7 +1860,7 @@ window.literatureWorks = [
       "词"
     ],
     "field": [
-      "行旅"
+      "文旅"
     ],
     "theme": [
       "山水"
@@ -2166,4 +2166,62 @@ window.literatureWorks = [
     "notesCount": 0
   }
 ];
-window.literatureTagLibrary = {"genre": ["现代诗", "古体", "散文", "词", "诗骚", "近体", "曲", "杂谈", "小说", "文言"], "field": ["历史", "文学", "行旅", "艺术", "戏曲", "影视"], "theme": ["咏怀", "咏古", "音乐", "生活", "乡村", "城市", "山水", "历史", "建筑", "人物", "评论", "纪录"], "series": ["画淡平林", "皖苏行吟", "长歌三晋", "播音时空", "南有仙槎", "笔缀萍踪", "益者三友", "穆侯列传", "探院良渚"], "region": ["黄山", "苏州", "济南", "晋城", "晋中", "曲阜", "杭州", "西安", "金华", "上海"]};
+window.literatureTagLibrary = {
+  "genre": [
+    "现代诗",
+    "古体",
+    "散文",
+    "词",
+    "诗骚",
+    "近体",
+    "曲",
+    "杂谈",
+    "小说",
+    "文言"
+  ],
+  "field": [
+    "历史",
+    "文学",
+    "文旅",
+    "艺术",
+    "戏曲",
+    "影视"
+  ],
+  "theme": [
+    "咏怀",
+    "咏古",
+    "音乐",
+    "生活",
+    "乡村",
+    "城市",
+    "山水",
+    "历史",
+    "建筑",
+    "人物",
+    "评论",
+    "纪录"
+  ],
+  "series": [
+    "画淡平林",
+    "皖苏行吟",
+    "长歌三晋",
+    "播音时空",
+    "南有仙槎",
+    "笔缀萍踪",
+    "益者三友",
+    "穆侯列传",
+    "探院良渚"
+  ],
+  "region": [
+    "黄山",
+    "苏州",
+    "济南",
+    "晋城",
+    "晋中",
+    "曲阜",
+    "杭州",
+    "西安",
+    "金华",
+    "上海"
+  ]
+};
