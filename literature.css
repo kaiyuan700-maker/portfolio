@@ -8,3 +8,9 @@
 @media(max-width:600px){.literature-filters fieldset{grid-template-columns:3rem 1fr}.literature-year{grid-template-columns:3.5rem minmax(0,1fr);gap:.6rem}.literature-year>h2{font-size:1.4rem}.literature-months{padding-left:1rem}.literature-month>h3::before{left:calc(-1rem - 4px)}.literature-day{grid-template-columns:3rem minmax(0,1fr);gap:.4rem}.literature-day-label{font-size:.78rem}.literature-day a{font-size:1rem;gap:.5rem}.literature-body{font-size:1rem;line-height:1.95}.literature-article{margin-top:2rem}.literature-filter-bottom{align-items:flex-start}.literature-filter-bottom button{white-space:nowrap}}
 
 .literature-body{font-size:max(16px,1.125rem)}
+
+/* Cross-links beside publication notes and work descriptions. */
+.related-work-links{display:flex;flex-wrap:wrap;justify-content:center;gap:.65rem 1.5rem;margin:1rem 0 1.75rem;font-size:1rem;line-height:1.8;font-family:var(--sans,sans-serif)}
+.related-work-links a{color:var(--accent,#8e5147);text-decoration:underline;text-underline-offset:.3em}
+.related-work-links a:hover{opacity:.7}
+.project-intro .related-work-links,.item-intro .related-work-links,.digital-caption .related-work-links{justify-content:flex-start}
