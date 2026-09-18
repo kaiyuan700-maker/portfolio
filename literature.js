@@ -1,7 +1,7 @@
 (() => {
  const dims=[['genre','体裁'],['field','领域'],['theme','主题'],['series','系列'],['region','地域']];
  const key='weiyun-literature-filters';let selected=[];
- try{const saved=JSON.parse(sessionStorage.getItem(key)||'[]');if(Array.isArray(saved))selected=saved.filter(x=>Array.isArray(x)&&dims.some(d=>d[0]===x[0])&&typeof x[1]==='string');}catch{}
+ try{const saved=JSON.parse(sessionStorage.getItem(key)||'[]');if(Array.isArray(saved))selected=saved.filter(x=>Array.isArray(x)&&dims.some(d=>d[0]===x[0])&&typeof x[1]==='string').map(([d,t])=>[d,d==='field'&&t==='行旅'?'文旅':t]);}catch{}
  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const works=()=>window.literatureWorks||[];
  function filtered(){const byDimension=new Map();for(const [d,t] of selected){if(!byDimension.has(d))byDimension.set(d,[]);byDimension.get(d).push(t);}return works().filter(w=>[...byDimension].every(([d,labels])=>labels.some(t=>w[d].includes(t))));}
