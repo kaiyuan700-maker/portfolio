@@ -313,7 +313,7 @@ window.portfolio = {
       "slug": "peony",
       "title": "牡丹亭",
       "en": "PROJECT 03",
-      "category": "文化意象转译 / 衍生品设计",
+      "category": "文化叙事转译 / 互动文创设计",
       "year": "",
       "cover": "./images/peony/hero-20260915.webp",
       "description": "设计以《牡丹亭》为核心，将人物情节转化为袋体内外空间结构，以异形透明视窗建立“梦境”通道。随物品放入，内层图像被不同程度遮挡，使“梦境”从静态转化为可参与、可变化的空间叙事。",
