@@ -45,3 +45,8 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 
 .design-heading .eyebrow{font-size:calc(var(--small-size) * .8)}
 .section-heading.design-heading h2{font-size:calc(var(--section-size) * .8)}
+
+.jinhuidui-decomposition{padding:3rem 0;border-top:1px solid var(--line,#c9c2b4);border-bottom:1px solid var(--line,#c9c2b4);margin:3rem 0}
+.jinhuidui-decomposition h2{text-align:center;margin:0 0 2rem}
+.jinhuidui-decomposition .essay-art{width:100%;max-width:900px;margin:0 auto}
+.jinhuidui-decomposition img{display:block;width:100%;height:auto;object-fit:contain}

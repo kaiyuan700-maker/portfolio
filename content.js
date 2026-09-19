@@ -173,10 +173,11 @@ window.portfolio = {
       "client": "浙江大学文学院",
       "period": "2025.11.27—12.18",
       "responsibilities": [
-        "核心概念",
-        "插画绘制",
-        "平面延展",
-        "舞台视觉"
+        "总体策划",
+        "概念构思",
+        "图像制作",
+        "系列延展",
+        "统筹协调"
       ],
       "collaborators": [
         "张涵瑞",
@@ -319,9 +320,9 @@ window.portfolio = {
       "description": "设计以《牡丹亭》为核心，将人物情节转化为袋体内外空间结构，以异形透明视窗建立“梦境”通道。随物品放入，内层图像被不同程度遮挡，使“梦境”从静态转化为可参与、可变化的空间叙事。",
       "role": "",
       "images": [],
-      "homeTitle": "“梦里啥都有”《牡丹亭》文创手提袋 | 戏曲叙事转译与互动文创设计",
+      "homeTitle": "“梦里啥都有”《牡丹亭》文创手提袋 | 文化叙事转译与互动文创设计",
       "fullTitle": "“梦里啥都有”《牡丹亭》文创手提袋",
-      "subtitle": "——戏曲叙事转译与互动文创设计",
+      "subtitle": "——文化叙事转译与互动文创设计",
       "presentation": "essay",
       "essayAssets": [
         {
@@ -585,6 +586,12 @@ window.portfolio = {
           "label": "221025.马克+丙烯.曹全碑&瑞鹤图平板壳.png",
           "width": 2200,
           "height": 1571
+        },
+        {
+          "src": "./images/fine-art/bawangbieji-calligraphy.jpg",
+          "label": "241203.天生会画.书法.京剧《霸王别姬》唱段.jpg",
+          "width": 1279,
+          "height": 1482
         },
         {
           "src": "./images/fine-art/traditional-3.webp",
