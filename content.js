@@ -369,7 +369,7 @@ window.portfolio = {
       "essayAssets": [
         {
           "src": "./images/jinhuidui/bags.webp",
-          "label": "锦灰堆手提袋 · 效果图",
+          "label": "锦灰堆手提袋 · 帆布版效果图",
           "width": 2400,
           "height": 1575
         },
@@ -403,8 +403,8 @@ window.portfolio = {
         [
           "材质",
           [
-            "杜邦纸袋身",
-            "PU提手"
+            "杜邦纸/帆布袋身",
+            "PU/帆布提手"
           ]
         ],
         [
