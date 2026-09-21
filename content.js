@@ -842,7 +842,7 @@ window.portfolio.teaPartyAssets = [
   },
   {
     "width": 1036,
-    "src": "./images/tea-party/p3.jpg",
+    "src": "./images/tea-party/p3.png",
     "height": 1656,
     "label": "概念图（天生会画，2026.07.21）"
   },
@@ -892,7 +892,7 @@ window.portfolio.maskFashionAssets = [
     "label": "灵感来源：某电视节目脸谱元素服装"
   },
   {
-    "src": "./images/opera-mask-fashion/p2.jpg",
+    "src": "./images/opera-mask-fashion/p2.png",
     "height": 1728,
     "width": 1080,
     "label": "概念图（天生会画，2026.05.21）"
