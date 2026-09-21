@@ -826,3 +826,99 @@ window.portfolio = {
     ]
   }
 };
+
+window.portfolio.teaPartyAssets = [
+  {
+    "width": 4725,
+    "src": "./images/tea-party/p1.png",
+    "height": 11811,
+    "label": "易拉宝"
+  },
+  {
+    "width": 2728,
+    "src": "./images/tea-party/p2.png",
+    "height": 3859,
+    "label": "邀请函"
+  },
+  {
+    "width": 1036,
+    "src": "./images/tea-party/p3.jpg",
+    "height": 1656,
+    "label": "概念图（天生会画，2026.07.21）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p4.png",
+    "height": 1536,
+    "label": "效果图 1（ChatGPT，2026.09.20）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p5.png",
+    "height": 1536,
+    "label": "效果图 2（ChatGPT，2026.09.20）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p6.png",
+    "height": 1536,
+    "label": "效果图 3（ChatGPT，2026.09.20）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p7.png",
+    "height": 1536,
+    "label": "效果图 4（ChatGPT，2026.09.20）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p8.png",
+    "height": 1536,
+    "label": "效果图 5（ChatGPT，2026.09.20）"
+  },
+  {
+    "width": 1024,
+    "src": "./images/tea-party/p9.png",
+    "height": 1536,
+    "label": "效果图 6（ChatGPT，2026.09.20）"
+  }
+];
+
+window.portfolio.maskFashionAssets = [
+  {
+    "src": "./images/opera-mask-fashion/p1.jpg",
+    "height": 1024,
+    "width": 576,
+    "label": "灵感来源：某电视节目脸谱元素服装"
+  },
+  {
+    "src": "./images/opera-mask-fashion/p2.jpg",
+    "height": 1728,
+    "width": 1080,
+    "label": "概念图（天生会画，2026.05.21）"
+  },
+  {
+    "src": "./images/opera-mask-fashion/p3.png",
+    "height": 1536,
+    "width": 1024,
+    "label": "效果图 1（ChatGPT，2026.09.20）"
+  },
+  {
+    "src": "./images/opera-mask-fashion/p4.png",
+    "height": 1536,
+    "width": 1024,
+    "label": "效果图 2（ChatGPT，2026.09.20）"
+  },
+  {
+    "src": "./images/opera-mask-fashion/p5.png",
+    "height": 1536,
+    "width": 1024,
+    "label": "效果图 3（ChatGPT，2026.09.20）"
+  },
+  {
+    "src": "./images/opera-mask-fashion/p6.png",
+    "height": 1536,
+    "width": 1024,
+    "label": "效果图 4（ChatGPT，2026.09.20）"
+  }
+];

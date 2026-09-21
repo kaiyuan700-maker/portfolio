@@ -50,3 +50,11 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 .jinhuidui-decomposition h2{text-align:center;margin:0 0 2rem}
 .jinhuidui-decomposition .essay-art{width:100%;max-width:900px;margin:0 auto}
 .jinhuidui-decomposition img{display:block;width:100%;height:auto;object-fit:contain}
+
+.more-design-entry{display:flex;justify-content:flex-end;margin:3rem 0 5rem}
+.tea-gallery{margin:3rem auto 5rem;max-width:100%}.tea-gallery .essay-art{margin:0 auto 4rem;width:100%;max-width:680px}.tea-gallery img{width:100%;height:auto;display:block;object-fit:contain}.tea-visuals .essay-art:first-child{max-width:480px}.tea-concept .essay-art{max-width:520px}.tea-effects{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:3rem}.tea-effects .essay-art{margin:0;max-width:none}.tea-facts{margin-bottom:3rem}@media(max-width:650px){.tea-effects{grid-template-columns:1fr;gap:2rem}.tea-gallery figcaption{flex-wrap:wrap;gap:.5rem}}
+.mask-concept-pair{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center;gap:3rem}
+.mask-concept-pair .essay-art{width:100%;max-width:520px;margin:0 auto}
+.mask-concept-pair .essay-art:first-child{width:66.666667%;max-width:346.666667px}
+.mask-concept-pair figcaption{flex-wrap:wrap;gap:.5rem}
+@media(max-width:650px){.mask-concept-pair{gap:1rem}}
