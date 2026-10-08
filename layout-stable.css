@@ -58,3 +58,10 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 .mask-concept-pair .essay-art:first-child{width:66.666667%;max-width:346.666667px}
 .mask-concept-pair figcaption{flex-wrap:wrap;gap:.5rem}
 @media(max-width:650px){.mask-concept-pair{gap:1rem}}
+/* Translucent solid triangles for the pen drawing gallery. */
+.pen-showcase .pen-control{width:clamp(16px,1.5vw,28px);height:clamp(100px,14vw,200px);padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;color:transparent;transition:opacity .2s}
+.pen-showcase .pen-control::before{content:"";position:absolute;inset:0;background:rgba(255,255,255,.62);clip-path:polygon(100% 0,0 50%,100% 100%);transition:background .2s}
+.pen-showcase .pen-right::before{clip-path:polygon(0 0,100% 50%,0 100%)}
+.pen-showcase .pen-control span{display:none}
+.pen-showcase .pen-control:hover{background:transparent;box-shadow:none;color:transparent}
+.pen-showcase .pen-control:hover::before,.pen-showcase .pen-control:focus-visible::before{background:rgba(255,255,255,.85)}
