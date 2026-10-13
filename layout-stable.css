@@ -65,3 +65,6 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 .pen-showcase .pen-control span{display:none}
 .pen-showcase .pen-control:hover{background:transparent;box-shadow:none;color:transparent}
 .pen-showcase .pen-control:hover::before,.pen-showcase .pen-control:focus-visible::before{background:rgba(255,255,255,.85)}
+
+/* Digital modeling project pages */
+.modeling-facts{margin:0 0 56px}.modeling-gallery{display:grid;gap:48px;margin:0 auto 64px;max-width:1200px}.modeling-gallery .artwork{margin:0}.modeling-gallery img{display:block;width:100%;height:auto;object-fit:contain}.modeling-gallery a{display:block}.modeling-facts dd{overflow-wrap:anywhere}@media(max-width:600px){.modeling-gallery{gap:24px;margin-bottom:40px}.modeling-facts{margin-bottom:32px}}

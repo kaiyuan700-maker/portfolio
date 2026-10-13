@@ -646,7 +646,7 @@ window.portfolio = {
     ],
     [
       "数字工具",
-      "Photoshop / Illustrator / InDesign / Rhino / Enscape / AI 辅助创作"
+      "Office//Photoshop/InDesign/Illustrator/Audition/Premiere//Rhino(GH)/VRay/Lumion//ChatGPT(Codex) 等"
     ]
   ],
   "experience": [
@@ -920,5 +920,100 @@ window.portfolio.maskFashionAssets = [
     "height": 1536,
     "width": 1024,
     "label": "效果图 4（ChatGPT，2026.09.20）"
+  }
+];
+
+window.portfolio.fineArt.splice(window.portfolio.fineArt.findIndex(s=>s.id==="traditional"),0,{id:"modeling",title:"数字建模与表现",assets:[]});
+window.portfolio.modelingProjects=[
+  {
+    "id": "courtyard",
+    "title": "《江南百景图》府衙建筑仿真重建",
+    "directoryTitle": "《江南百景图》府衙建筑仿真重建",
+    "facts": [
+      [
+        "时间",
+        "2021.03"
+      ],
+      [
+        "建模",
+        "Rhinoceros"
+      ],
+      [
+        "渲染",
+        "Enscape"
+      ],
+      [
+        "优化",
+        "豆包（2026.06.14）"
+      ]
+    ],
+    "assets": [
+      {
+        "src": "./images/modeling/p1.png",
+        "height": 939,
+        "width": 1675
+      },
+      {
+        "src": "./images/modeling/p2-transparent.png",
+        "height": 941,
+        "width": 1672
+      },
+      {
+        "src": "./images/modeling/p3.png",
+        "height": 1534,
+        "width": 2732
+      },
+      {
+        "src": "./images/modeling/p4.jpeg",
+        "height": 1534,
+        "width": 2732
+      }
+    ]
+  },
+  {
+    "id": "radio",
+    "title": "广播台播音室实景测绘建模",
+    "directoryTitle": "广播台播音室测绘建模",
+    "facts": [
+      [
+        "周期",
+        "2023.06"
+      ],
+      [
+        "建模",
+        "Rhinoceros"
+      ],
+      [
+        "渲染",
+        "Lumion"
+      ]
+    ],
+    "assets": [
+      {
+        "src": "./images/modeling/p5.png",
+        "height": 1080,
+        "width": 1920
+      },
+      {
+        "src": "./images/modeling/p6.png",
+        "height": 1080,
+        "width": 1920
+      },
+      {
+        "src": "./images/modeling/p7.png",
+        "height": 1080,
+        "width": 1920
+      },
+      {
+        "src": "./images/modeling/p8.png",
+        "height": 1080,
+        "width": 1920
+      },
+      {
+        "src": "./images/modeling/p9.png",
+        "height": 2160,
+        "width": 3840
+      }
+    ]
   }
 ];
