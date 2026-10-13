@@ -68,3 +68,12 @@ body.is-home .closing::before{background-size:100% 100%;mask-image:linear-gradie
 
 /* Digital modeling project pages */
 .modeling-facts{margin:0 0 56px}.modeling-gallery{display:grid;gap:48px;margin:0 auto 64px;max-width:1200px}.modeling-gallery .artwork{margin:0}.modeling-gallery img{display:block;width:100%;height:auto;object-fit:contain}.modeling-gallery a{display:block}.modeling-facts dd{overflow-wrap:anywhere}@media(max-width:600px){.modeling-gallery{gap:24px;margin-bottom:40px}.modeling-facts{margin-bottom:32px}}
+
+/* Balanced capability columns with explicit tool groups. */
+.about-skills{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) minmax(0,1.5fr);gap:24px 32px;align-items:start}
+.about-skills>div{min-width:0;margin-bottom:0}
+.about-skills dt{white-space:nowrap;margin-bottom:12px}
+.about-skills dd{overflow-wrap:anywhere;word-break:normal}
+.skill-tool-group{display:block;margin-bottom:5px}
+@media(max-width:900px){.about-skills{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 32px}}
+@media(max-width:480px){.about-skills{grid-template-columns:minmax(0,1fr);gap:24px}}
